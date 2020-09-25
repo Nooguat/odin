@@ -1,17 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T09:33:42.590Z" agent="5.0 (Windows)" etag="Bw0u-0VmH3Yj--8RKpTz" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T09:40:55.573Z" agent="5.0 (Windows)" etag="6At0lJ7X5Qh5GazqCcuG" version="13.7.5" type="github">
   <diagram id="mtwI1arj5SyHYUT7ldQU" name="Page-1">
-    <mxGraphModel dx="460" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="541" dy="929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-1" target="MVPOPZxVsZ8db3f4Zknr-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-1" target="MVPOPZxVsZ8db3f4Zknr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-1" target="MVPOPZxVsZ8db3f4Zknr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MVPOPZxVsZ8db3f4Zknr-1" value="&lt;div&gt;Cartes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVPOPZxVsZ8db3f4Zknr-2" value="&lt;div&gt;Interface graphique&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="350" y="60" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-4" target="MVPOPZxVsZ8db3f4Zknr-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MVPOPZxVsZ8db3f4Zknr-4" value="&lt;div&gt;Partie&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-5" target="MVPOPZxVsZ8db3f4Zknr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-5" value="&lt;div&gt;Distribution des &lt;br&gt;&lt;/div&gt;&lt;div&gt;cartes&lt;/div&gt;&lt;div&gt;(7)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-7" target="MVPOPZxVsZ8db3f4Zknr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-7" value="Poser une carte" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-9" target="MVPOPZxVsZ8db3f4Zknr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-9" target="MVPOPZxVsZ8db3f4Zknr-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-9" target="MVPOPZxVsZ8db3f4Zknr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-9" value="&lt;div&gt;Condition &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-11" target="MVPOPZxVsZ8db3f4Zknr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-11" value="&lt;div&gt;Meme nombre que la &lt;br&gt;&lt;/div&gt;&lt;div&gt;carte au milieu&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-13" target="MVPOPZxVsZ8db3f4Zknr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-13" value="Meme couleur" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-15" value="Carte posée" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MVPOPZxVsZ8db3f4Zknr-19" target="MVPOPZxVsZ8db3f4Zknr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-19" value="&lt;div&gt;Piocher une &lt;br&gt;&lt;/div&gt;&lt;div&gt;carte&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-21" value="Carte jouable" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-23" value="&lt;div&gt;Peut etre &lt;br&gt;&lt;/div&gt;&lt;div&gt;spéciale&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-25" value="Nombre" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-27" value="Couleur" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVPOPZxVsZ8db3f4Zknr-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
