@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T10:12:59.686Z" agent="5.0 (Windows)" etag="x6X7puDYTIcqY2C3N2sw" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-25T10:13:59.701Z" agent="5.0 (Windows)" etag="Q6suqk-JuAms2KpA1Elj" version="13.7.5" type="github" pages="2">
   <diagram id="mtwI1arj5SyHYUT7ldQU" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,10 +131,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qMSyg9DbRPwWQg6Nz_0t-1" value="Pioche" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qMSyg9DbRPwWQg6Nz_0t-2" value="&lt;div&gt;Liste des cartes&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qr3zDrqwGn3RaCYUJBTD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qr3zDrqwGn3RaCYUJBTD-9" target="qr3zDrqwGn3RaCYUJBTD-10">
           <mxGeometry relative="1" as="geometry" />
@@ -202,6 +202,15 @@
         </mxCell>
         <mxCell id="btfAZncgs7A6J5dz6NYn-3" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btfAZncgs7A6J5dz6NYn-6" target="btfAZncgs7A6J5dz6NYn-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-6" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-7" value="&lt;div&gt;LIstes des cartes &lt;br&gt;&lt;/div&gt;&lt;div&gt;dans la main&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
