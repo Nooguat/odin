@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T10:09:15.820Z" agent="5.0 (Windows)" etag="TAAluD63fDmxN3PDG-Jk" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-25T10:12:59.686Z" agent="5.0 (Windows)" etag="x6X7puDYTIcqY2C3N2sw" version="13.7.5" type="github" pages="2">
   <diagram id="mtwI1arj5SyHYUT7ldQU" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,11 +184,30 @@
         <mxCell id="qr3zDrqwGn3RaCYUJBTD-22" value="&lt;div&gt;Fin du tour&lt;/div&gt;&lt;div&gt;Debut du tour &lt;br&gt;&lt;/div&gt;&lt;div&gt;du joueur de droite&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="btfAZncgs7A6J5dz6NYn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="764" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-1" value="&lt;div&gt;Nom&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="btfAZncgs7A6J5dz6NYn-3" target="MVPOPZxVsZ8db3f4Zknr-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="310" />
+              <mxPoint x="762" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="btfAZncgs7A6J5dz6NYn-3" value="Main" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="BWqDTuRyERt6JCHXHq7n" name="Page-2">
-    <mxGraphModel dx="2370" dy="1318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mba5Whx5zGnuBkIDS3wH-0" />
         <mxCell id="mba5Whx5zGnuBkIDS3wH-1" parent="mba5Whx5zGnuBkIDS3wH-0" />
