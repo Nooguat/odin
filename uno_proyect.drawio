@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T10:06:31.660Z" agent="5.0 (Windows)" etag="ab2qPyTGMfQmJpEY00E-" version="13.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-25T10:07:43.542Z" agent="5.0 (Windows)" etag="7pOUuHCvMnf_yjoDaqt7" version="13.7.5" type="github" pages="2">
   <diagram id="mtwI1arj5SyHYUT7ldQU" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -160,11 +160,20 @@
         <mxCell id="qr3zDrqwGn3RaCYUJBTD-16" value="Réussi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1390" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="qr3zDrqwGn3RaCYUJBTD-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qr3zDrqwGn3RaCYUJBTD-18" target="qr3zDrqwGn3RaCYUJBTD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qr3zDrqwGn3RaCYUJBTD-18" value="Suite de la partie" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="331" y="1400" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="qr3zDrqwGn3RaCYUJBTD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qr3zDrqwGn3RaCYUJBTD-20" target="qr3zDrqwGn3RaCYUJBTD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qr3zDrqwGn3RaCYUJBTD-20" value="Pioche deux cartes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qr3zDrqwGn3RaCYUJBTD-22" value="&lt;div&gt;Fin du tour&lt;/div&gt;&lt;div&gt;Debut du tour &lt;br&gt;&lt;/div&gt;&lt;div&gt;du joueur de droite&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
