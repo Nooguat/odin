@@ -1,4 +1,4 @@
-class Carte():
+class Card():
 
 #methode pour initisialiser les reglès des cartes
     def __init__(self, nbCard = 108, color = 4 , value, direction):
